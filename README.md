@@ -9,5 +9,5 @@
 * http://github.com
 * 제가 검색할 때 자주 쓰는 사이트는 [구글](https://www.google.com)
 
-- ![GitHub Logo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiIhJTDlfnhAhXsyYsBHRV5Ah4QjRx6BAgBEAU&url=https%3A%2F%2Frainbow-unicorn.com%2F&psig=AOvVaw0f6ipGWFwjIcetqF0-cS5_&ust=1556760096767177)
+- ![rainbow](https://rainbow-unicorn.com/wp-content/uploads/2016/11/rainbow-unicorn-og-image-colors.png)
 Format: ![Alt Text](url)
