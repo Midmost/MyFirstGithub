@@ -1,9 +1,9 @@
 # MyFirstGithub
 수업 시간 연습용 저장소
 
-# 조희진
-- 뀨
-* 뀨뀨
+# 조희진 Heejin
+- 뀨???
+* 뀨뀨dkjsfksjfd
 * 다 뒤져라 **씨이발**
 
 * https://jekyllrb-ko.github.io/
