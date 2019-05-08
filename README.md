@@ -32,3 +32,40 @@ if (isAwesome){
   return true
 }
 ```
+
+
+1. rocket/불꽃 어떻게 다르게 객체화되었는지
+
+class Firework extends Particle {
+	constructor(x, y) {
+		super(x, y, random(-2, 2), random(-10, -15),
+			random(colors), 10);
+		this.countdown = random(30, 60);
+	}
+    와 
+    function Firework() {
+  this.hu = random(255);
+  this.firework = new Particle(random(width), height, this.hu, true);
+  this.exploded = false;
+  this.particles = [];
+차이 보기
+
+
+
+대니얼 코드는 
+평상시에 내가 폭발안하다가 중력이 넣어지고 최정상이 되는 순간(this.firework.vel.y => 0)이 되면
+
+this.explode = fuction(){
+for (va
+
+
+#poetic code for nature(기말작업)
+
+- 깃허브 페이지에 최소 3개의 작업을 올립니다.
+- 기존 과제에서 나온 작업에서 시작해도 됩니다.
+- 창작의 씨앗에서 시작하되, 창작을 위한 제약을 두겠습니다.
+- (nature에 대한 ) 단어를 선택하ㄱ, 시적 코드를 만들어봅시다.
+
+코드 자체를 시적으로 표현할 수 있다. 
+concrete poetic도 참고가능
+시각적 표현과 글의 만남도 실험 가능
